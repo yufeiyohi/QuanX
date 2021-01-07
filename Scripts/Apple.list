@@ -1,23 +1,23 @@
 # Apple
-DOMAIN-SUFFIX,aaplimg.com,Apple
-DOMAIN-SUFFIX,apple.co,Apple
-DOMAIN-SUFFIX,apple.com,Apple
-DOMAIN-SUFFIX,apple.com.cn,Apple
-DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-DOMAIN-SUFFIX,appstore.com,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
-DOMAIN-SUFFIX,icloud.com,Apple
-DOMAIN-SUFFIX,icloud.com.cn,Apple
-DOMAIN-SUFFIX,icloud-content.com,Apple
-DOMAIN-SUFFIX,me.com,Apple
-DOMAIN-SUFFIX,mzstatic.com,Apple
-DOMAIN-KEYWORD,apple.com.akadns.net,Apple
-DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
-IP-CIDR,17.0.0.0/8,Apple
-IP-CIDR,63.92.224.0/19,Apple
-IP-CIDR,65.199.22.0/23,Apple
-IP-CIDR,139.178.128.0/18,Apple
-IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,192.35.50.0/24,Apple
-IP-CIDR,198.183.17.0/24,Apple
-IP-CIDR,205.180.175.0/24,Apple
+DOMAIN-SUFFIX,aaplimg.com,🎯 全球直连
+DOMAIN-SUFFIX,apple.co,🎯 全球直连
+DOMAIN-SUFFIX,apple.com,🎯 全球直连
+DOMAIN-SUFFIX,apple.com.cn,🎯 全球直连
+DOMAIN-SUFFIX,apple-cloudkit.com,🎯 全球直连
+DOMAIN-SUFFIX,appstore.com,🎯 全球直连
+DOMAIN-SUFFIX,cdn-apple.com,🎯 全球直连
+DOMAIN-SUFFIX,icloud.com,🎯 全球直连
+DOMAIN-SUFFIX,icloud.com.cn,🎯 全球直连
+DOMAIN-SUFFIX,icloud-content.com,🎯 全球直连
+DOMAIN-SUFFIX,me.com,🎯 全球直连
+DOMAIN-SUFFIX,mzstatic.com,🎯 全球直连
+DOMAIN-KEYWORD,apple.com.akadns.net,🎯 全球直连
+DOMAIN-KEYWORD,icloud.com.akadns.net,🎯 全球直连
+IP-CIDR,17.0.0.0/8,🎯 全球直连
+IP-CIDR,63.92.224.0/19,🎯 全球直连
+IP-CIDR,65.199.22.0/23,🎯 全球直连
+IP-CIDR,139.178.128.0/18,🎯 全球直连
+IP-CIDR,144.178.0.0/19,🎯 全球直连
+IP-CIDR,192.35.50.0/24,🎯 全球直连
+IP-CIDR,198.183.17.0/24,🎯 全球直连
+IP-CIDR,205.180.175.0/24,🎯 全球直连
