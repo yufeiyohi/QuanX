@@ -1,0 +1,2 @@
+# 开启所有脚本统一推送
+$prefs.setValueForKey("https://api.day.app/EjEK7ZWYpexuSQLY94xpZf", "magicjs_unified_push_url");
